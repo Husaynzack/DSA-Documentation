@@ -13,3 +13,4 @@ there are actuallu list of tools that we have been using so far during the class
    - Data Manipulation
 - SQL( Structured query language)
 - Power BI(used for the visualization of data)
+Attached to this repo is the 2 projects I ran using the knowledge i got from the DSA programme
